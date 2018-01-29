@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/genNumber1/genNumber1.iml" filepath="$PROJECT_DIR$/genNumber1/genNumber1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickNumberGen1/pickNumberGen1.iml" filepath="$PROJECT_DIR$/pickNumberGen1/pickNumberGen1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdModule/thirdModule.iml" filepath="$PROJECT_DIR$/thirdModule/thirdModule.iml" />
+    </modules>
+  </component>
+</project>
