@@ -45,4 +45,27 @@
     </dependencies>
 
 
+    <!-- PROFILES DEFINED OPERATIONS THAT CAN BE ACTIVATED BY DEFAULT OR BE CALLED UPON TO ACTIVATE WITH THE ID VALUE -->
+
+    <profiles>
+        <profile>
+            <id>output</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.codehaus.mojo</groupId>
+                        <artifactId>exec-maven-plugin</artifactId>
+                        <configuration>
+                            <mainClass>se.addo.playground.output.App</mainClass>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+
 </project>

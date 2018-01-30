@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="215d9b96-e09a-4b77-b1a9-23949b5f58c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thirdModule/src/main/java/se/addo/playground/output/App.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/genNumber1/target/classes/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pickNumberGen1/target/classes/Counter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pickNumberGen1/target/classes/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thirdModule/src/main/java/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thirdModule/target/classes/Main.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/genNumber1/src/main/java/Main.java" afterPath="$PROJECT_DIR$/genNumber1/src/main/java/se/addo/playground/gen/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pickNumberGen1/src/main/java/Counter.java" afterPath="$PROJECT_DIR$/pickNumberGen1/src/main/java/se/addo/playground/pick/Counter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pickNumberGen1/src/main/java/Main.java" afterPath="$PROJECT_DIR$/pickNumberGen1/src/main/java/se/addo/playground/pick/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genNumber1/target/genNumber1-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/genNumber1/target/genNumber1-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pickNumberGen1/target/pickNumberGen1-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pickNumberGen1/target/pickNumberGen1-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thirdModule/target/thirdModule-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/thirdModule/target/thirdModule-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genNumber1/pom.xml" afterPath="$PROJECT_DIR$/genNumber1/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pickNumberGen1/pom.xml" afterPath="$PROJECT_DIR$/pickNumberGen1/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genNumber1/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/genNumber1/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pickNumberGen1/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pickNumberGen1/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thirdModule/pom.xml" afterPath="$PROJECT_DIR$/thirdModule/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thirdModule/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/thirdModule/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,8 +29,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="51" column="135" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="135" />
+            <state relative-caret-position="526">
+              <caret line="83" column="24" lean-forward="false" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -51,20 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thirdModule/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="387">
+              <caret line="47" column="99" lean-forward="false" selection-start-line="47" selection-start-column="99" selection-end-line="47" selection-end-column="99" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/genNumber1/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="463">
               <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding />
             </state>
@@ -113,11 +108,11 @@
         <option value="$PROJECT_DIR$/pickNumberGen1/src/main/java/se/addo/playground/pick/Main.java" />
         <option value="$PROJECT_DIR$/pickNumberGen1/src/main/java/se/addo/playground/pick/Counter.java" />
         <option value="$PROJECT_DIR$/genNumber1/src/main/java/se/addo/playground/gen/Main.java" />
-        <option value="$PROJECT_DIR$/thirdModule/pom.xml" />
         <option value="$PROJECT_DIR$/thirdModule/src/main/java/se/addo/playground/output/App.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/pickNumberGen1/pom.xml" />
         <option value="$PROJECT_DIR$/genNumber1/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/thirdModule/pom.xml" />
       </list>
     </option>
   </component>
@@ -392,7 +387,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1058" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -683,22 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="51" column="135" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="135" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thirdModule/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pickNumberGen1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -709,8 +688,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/genNumber1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="463">
           <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="83" column="24" lean-forward="false" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdModule/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="47" column="99" lean-forward="false" selection-start-line="47" selection-start-column="99" selection-end-line="47" selection-end-column="99" />
           <folding />
         </state>
       </provider>

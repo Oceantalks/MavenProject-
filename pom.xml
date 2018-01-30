@@ -40,7 +40,7 @@
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>exec-maven-plugin</artifactId>
                     <version>1.6.0</version>
-                        <executions>
+                    <executions>
                         <execution>
                             <phase>integration-test</phase>
                             <goals>
