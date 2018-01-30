@@ -1,3 +1,5 @@
+package se.addo.playground.pick;
+
 import java.util.Random;
 
 public class Counter {
