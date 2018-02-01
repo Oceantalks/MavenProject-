@@ -32,6 +32,15 @@
     </build>
 
     <dependencies>
+
+        <!-- BUILD ORDER CHANGES WHEN A MODULE IS DEPENDING ON ANOTHER MODULE LIKE IN THE CASE BELOW,
+             ARTIFACT/MODULE GENNUMBER1 WILL BE BUILT FIRST THEN PICKNUMBERGEN1 WILL BE BUILT BECAUSE OF THE DEPENDECY -->
+
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>genNumber1</artifactId>
+            <version>${project.version}</version>
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
